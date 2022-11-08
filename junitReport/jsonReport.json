@@ -1,0 +1,96 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2022-11-04T06:37:56.379Z",
+        "line": 6,
+        "name": "To check the login by giving negative username and positive password",
+        "description": "",
+        "id": "facebook-login-test-using-cucumber-bdd;to-check-the-login-by-giving-negative-username-and-positive-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 14822037563,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To Configure the browser in webdriver manager",
+            "match": {
+              "location": "Stepdefinition.to_Configure_the_browser_in_webdriver_manager()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2767181155,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To launch the browser our case edge browser",
+            "match": {
+              "location": "Stepdefinition.to_launch_the_browser_our_case_edge_browser()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 309943931,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "To check the login by entering negative username",
+            "match": {
+              "location": "Stepdefinition.to_check_the_login_by_entering_negative_username()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 120278185,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "To check the login by entering positive password",
+            "match": {
+              "location": "Stepdefinition.to_check_the_login_by_entering_positive_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 212836627,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "To submit the value by clicking login button",
+            "match": {
+              "location": "Stepdefinition.to_submit_the_value_by_clicking_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3993969381,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "To quit the browser after clicking the login",
+            "match": {
+              "location": "Stepdefinition.to_quit_the_browser_after_clicking_the_login()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Facebook Login Test Using Cucumber BDD",
+    "description": "",
+    "id": "facebook-login-test-using-cucumber-bdd",
+    "keyword": "Feature",
+    "uri": "file:/C:/Users/Babu/eclipse-workspace/CucumberNew/src/main/resources/Facebook.feature",
+    "tags": []
+  }
+]

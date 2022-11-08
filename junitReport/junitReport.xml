@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="22.114374">
+<testcase classname="Facebook Login Test Using Cucumber BDD" name="To check the login by giving negative username and positive password" time="22.114374">
+<system-out><![CDATA[Given To Configure the browser in webdriver manager.........................passed
+When To launch the browser our case edge browser............................passed
+And To check the login by entering negative username........................passed
+And To check the login by entering positive password........................passed
+And To submit the value by clicking login button............................passed
+Then To quit the browser after clicking the login...........................passed
+]]></system-out>
+</testcase>
+</testsuite>
